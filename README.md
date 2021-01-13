@@ -2,6 +2,13 @@
 
 ![TypeScript](https://pantheon.io/sites/default/files/field/image/TypeScriptImage.jpeg)
 
+## 📌 Pre-requirements
+
+* `nodejs` (npm) installed on your machine
+* TypeScript installed globally
+
+  `npm install -g typescript`
+
 ## Setting Up 
 
 1. Fork this project
@@ -16,15 +23,7 @@
 
     `gh repo clone https://github.com/user/typescript-learning` (if you use `gh` cli)
 
-3. Install the dependencies
-
-    `npm install` (if you use `npm`)
-
-    or
-
-    `yarn` (if you use   `yarn`)
-
-4. Start the project
+3. Start the project
 
     `tsc -w`
 
